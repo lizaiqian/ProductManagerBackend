@@ -1,0 +1,4 @@
+node_modules/
+.idea/
+redis-product.js
+redis-test.js
