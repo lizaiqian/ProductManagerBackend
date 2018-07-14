@@ -19,7 +19,7 @@ app.use(require("./middleware/response-mid"));
 //token处理中间件
 app.use(require("./middleware/token-mid"))
 //权限中间件
-app.use(require("./middleware/permission-mid"))
+// app.use(require("./middleware/permission-mid"))
 
 //用户登录router
 app.use("/user", require("./router/user"));
