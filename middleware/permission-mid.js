@@ -8,7 +8,7 @@ let managerUrl = [
 let generalUrl = [
     /^.*\/product\/.*$/,
     /^.*\/order\/.*$/,
-    // /^.*\/category\/.*$/,
+    /^.*\/category\/.*$/,
     /^.*\/user\/login.*$/
 ]
 
